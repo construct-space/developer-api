@@ -1,0 +1,4 @@
+.env
+spaces-portal
+*.exe
+.DS_Store
